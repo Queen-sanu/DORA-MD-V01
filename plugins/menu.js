@@ -1,2 +1,513 @@
-// Obfuscated by REAL DEXTER
-const _0x21c34c=_0x55e8;(function(_0x2b5f89,_0x33cff8){const _0x97f4a1=_0x55e8,_0x41484a=_0x2b5f89();while(!![]){try{const _0x5b2bb0=parseInt(_0x97f4a1(0x101))/0x1*(parseInt(_0x97f4a1(0x110))/0x2)+parseInt(_0x97f4a1(0x111))/0x3+parseInt(_0x97f4a1(0x124))/0x4*(-parseInt(_0x97f4a1(0x11a))/0x5)+-parseInt(_0x97f4a1(0x103))/0x6+parseInt(_0x97f4a1(0x116))/0x7+-parseInt(_0x97f4a1(0x11e))/0x8+parseInt(_0x97f4a1(0x11f))/0x9*(parseInt(_0x97f4a1(0x100))/0xa);if(_0x5b2bb0===_0x33cff8)break;else _0x41484a['push'](_0x41484a['shift']());}catch(_0x20d68a){_0x41484a['push'](_0x41484a['shift']());}}}(_0x3759,0x57ca1));const config=require('../config'),{cmd,commands}=require('../command'),os=require('os'),{runtime}=require('../lib/functions'),axios=require('axios');cmd({'pattern':'menu','desc':_0x21c34c(0x120),'category':'menu','react':'📜','filename':__filename},async(_0x3c1ef9,_0x3a76e5,_0x197d8d,{from:_0x421709,quoted:_0x5d19b2,body:_0x53766b,isCmd:_0x2a391c,command:_0x5ad9dc,args:_0x21dbdb,q:_0x70dc4d,isGroup:_0x479d4d,sender:_0x1db5a2,senderNumber:_0x339013,botNumber2:_0x49426a,botNumber:_0xb26b4b,pushname:_0x52f879,isMe:_0x1e0a2e,isOwner:_0x2dde89,groupMetadata:_0x4ea3ba,groupName:_0x9d6eb4,participants:_0x356a9a,groupAdmins:_0x134f3f,isBotAdmins:_0x20e2fa,isAdmins:_0x575c9c,reply:_0x8ca727})=>{const _0x9b0c91=_0x21c34c,_0x2ff735={'DKERP':_0x9b0c91(0x11b),'dSsLg':function(_0x223760,_0x75aacf){return _0x223760(_0x75aacf);}};try{let _0x4e9a21=_0x9b0c91(0x10d)+config[_0x9b0c91(0x10e)]+'*\x20〕━━━┈⊷\x0a┃★╭──────────────\x0a┃★│\x20𝑶𝑾𝑵𝑬𝑹\x20:\x20*'+config['BOT_NAME']+_0x9b0c91(0x10f)+config[_0x9b0c91(0x123)]+_0x9b0c91(0x119)+config[_0x9b0c91(0x10c)]+_0x9b0c91(0x11d)+config['CAPTION'];await _0x3c1ef9['sendMessage'](_0x421709,{'image':{'url':_0x9b0c91(0x113)},'caption':_0x4e9a21,'contextInfo':{'mentionedJid':[_0x197d8d['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x9b0c91(0x126),'newsletterName':_0x9b0c91(0x118),'serverMessageId':0x8f}}},{'quoted':_0x3a76e5}),await _0x3c1ef9['sendMessage'](_0x421709,{'audio':{'url':_0x2ff735[_0x9b0c91(0x107)]},'mimetype':_0x9b0c91(0x125),'ptt':!![]},{'quoted':_0x3a76e5});}catch(_0xdab6a8){console['log'](_0xdab6a8),_0x2ff735[_0x9b0c91(0x10a)](_0x8ca727,''+_0xdab6a8);}}),cmd({'pattern':'dlmenu','desc':_0x21c34c(0x120),'category':_0x21c34c(0x10b),'react':'⤵️','filename':__filename},async(_0x1f2b71,_0x596aa4,_0x23fe98,{from:_0x3d2b7d,quoted:_0x544340,body:_0x1146aa,isCmd:_0x592b99,command:_0xdfa197,args:_0x26fb4a,q:_0x1d3570,isGroup:_0x4dec56,sender:_0x1ae536,senderNumber:_0x284336,botNumber2:_0x32b79b,botNumber:_0x1a72b5,pushname:_0x232892,isMe:_0x612ad1,isOwner:_0x929f0a,groupMetadata:_0x1132b4,groupName:_0x506192,participants:_0x2e084b,groupAdmins:_0xbce571,isBotAdmins:_0x30cef0,isAdmins:_0x3f08e9,reply:_0x680d3f})=>{const _0x4ec61d=_0x21c34c;try{let _0x1eb112='╭━━〔\x20*ᴅᴏᴡɴʟᴏᴀᴅ\x20ᴍᴇɴᴜ*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20facebook\x0a┃◈┃•\x20mediafire\x0a┃◈┃•\x20tiktok\x0a┃◈┃•\x20twitter\x0a┃◈┃•\x20Insta\x0a┃◈┃•\x20apk\x0a┃◈┃•\x20img\x0a┃◈┃•\x20play\x0a┃◈┃•\x20play2\x0a┃◈┃•\x20audio\x0a┃◈┃•\x20video\x0a┃◈┃•\x20video2\x0a┃◈┃•\x20ytmp3\x0a┃◈┃•\x20ytmp4\x0a┃◈┃•\x20song\x0a┃◈┃•\x20darama\x0a┃◈┃•\x20gdrive\x0a┃◈┃•\x20smovie\x0a┃◈┃•\x20baiscope\x20\x0a┃◈┃•\x20ginisilia\x20\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config[_0x4ec61d(0x127)];await _0x1f2b71['sendMessage'](_0x3d2b7d,{'image':{'url':'https://files.catbox.moe/20f3gw.jpg'},'caption':_0x1eb112,'contextInfo':{'mentionedJid':[_0x23fe98['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':'120363402653537145@newsletter','newsletterName':_0x4ec61d(0x118),'serverMessageId':0x8f}}},{'quoted':_0x596aa4});}catch(_0x42790b){console['log'](_0x42790b),_0x680d3f(''+_0x42790b);}}),cmd({'pattern':_0x21c34c(0x105),'desc':_0x21c34c(0x120),'category':'menu','react':'⤵️','filename':__filename},async(_0x3e2ae8,_0x3fd932,_0x37d83b,{from:_0x15fb2e,quoted:_0x33d854,body:_0x2816e2,isCmd:_0x59fa39,command:_0x5d47e1,args:_0x49777a,q:_0x55867d,isGroup:_0x447384,sender:_0x101eab,senderNumber:_0x520a3b,botNumber2:_0x2489b3,botNumber:_0x492bb7,pushname:_0x3e1b15,isMe:_0x2618f1,isOwner:_0x3d37e2,groupMetadata:_0x38f97f,groupName:_0x312693,participants:_0x1528de,groupAdmins:_0x338c17,isBotAdmins:_0x20724d,isAdmins:_0x102cf2,reply:_0x5b7594})=>{const _0x3a4f4a=_0x21c34c,_0x11dc0c={'WsazG':'120363402653537145@newsletter'};try{let _0x32d387='╭━━〔\x20*ɢʀᴏᴜᴘ\x20ᴍᴇɴᴜ*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20grouplink\x0a┃◈┃•\x20add\x0a┃◈┃•\x20remove\x0a┃◈┃•\x20kick\x0a┃◈┃•\x20promote\x20\x0a┃◈┃•\x20demote\x0a┃◈┃•\x20dismiss\x20\x0a┃◈┃•\x20revoke\x0a┃◈┃•\x20setgoodbye\x0a┃◈┃•\x20setwelcome\x0a┃◈┃•\x20delete\x20\x0a┃◈┃•\x20getpic\x0a┃◈┃•\x20ginfo\x0a┃◈┃•\x20delete\x20\x0a┃◈┃•\x20disappear\x20on\x0a┃◈┃•\x20disappear\x20off\x0a┃◈┃•\x20disappear\x207D,24H\x0a┃◈┃•\x20allreq\x0a┃◈┃•\x20updategname\x0a┃◈┃•\x20updategdesc\x0a┃◈┃•\x20joinrequests\x0a┃◈┃•\x20senddm\x0a┃◈┃•\x20nikal\x0a┃◈┃•\x20mute\x0a┃◈┃•\x20unmute\x0a┃◈┃•\x20lockgc\x0a┃◈┃•\x20unlockgc\x0a┃◈┃•\x20invite\x0a┃◈┃•\x20tag\x0a┃◈┃•\x20hidetag\x0a┃◈┃•\x20tagall\x0a┃◈┃•\x20tagadmins\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config[_0x3a4f4a(0x127)];await _0x3e2ae8[_0x3a4f4a(0x128)](_0x15fb2e,{'image':{'url':_0x3a4f4a(0x113)},'caption':_0x32d387,'contextInfo':{'mentionedJid':[_0x37d83b['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x11dc0c[_0x3a4f4a(0x112)],'newsletterName':_0x3a4f4a(0x118),'serverMessageId':0x8f}}},{'quoted':_0x3fd932});}catch(_0x2b9217){console['log'](_0x2b9217),_0x5b7594(''+_0x2b9217);}}),cmd({'pattern':'funmenu','desc':_0x21c34c(0x120),'category':'menu','react':'😎','filename':__filename},async(_0x50e490,_0x27b03d,_0x4525eb,{from:_0x411021,quoted:_0x33093a,body:_0x5806ac,isCmd:_0x27f6bb,command:_0x475757,args:_0x44929b,q:_0x207f48,isGroup:_0xbca3ef,sender:_0x566301,senderNumber:_0x1372c9,botNumber2:_0x25f5a4,botNumber:_0x16cfcc,pushname:_0x2a27d4,isMe:_0x13ca61,isOwner:_0x47ed98,groupMetadata:_0x14c6d2,groupName:_0x4378d6,participants:_0xbc7601,groupAdmins:_0x53deb0,isBotAdmins:_0xc341c0,isAdmins:_0x3aaf0f,reply:_0x319ca4})=>{const _0x365f2a=_0x21c34c,_0x34dd4a={'zDuVL':'🧑‍💻⃝𝘿𝙊𝙍𝘼\x20𝙈𝘿\x20𝙏𝙀𝘾𝙃➝💥','ydnjj':function(_0x372a0c,_0x59cd80){return _0x372a0c(_0x59cd80);}};try{let _0x2b8a42='╭━━〔\x20*ꜰᴜɴ\x20ᴍᴇɴᴜ*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20insult\x0a┃◈┃•\x20hack\x0a┃◈┃•\x20joke\x0a┃◈┃•\x20heart\x20\x0a┃◈┃•\x20happy\x20\x0a┃◈┃•\x20sad\x0a┃◈┃•\x20angry\x20\x0a┃◈┃•\x20shy\x0a┃◈┃•\x20kiss\x0a┃◈┃•\x20moon\x0a┃◈┃•\x20cunfuzed\x0a┃◈┃•\x20hand\x0a┃◈┃•\x20nikal\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config['CAPTION'];await _0x50e490['sendMessage'](_0x411021,{'image':{'url':_0x365f2a(0x113)},'caption':_0x2b8a42,'contextInfo':{'mentionedJid':[_0x4525eb['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':'120363402653537145@newsletter','newsletterName':_0x34dd4a['zDuVL'],'serverMessageId':0x8f}}},{'quoted':_0x27b03d});}catch(_0x40016e){console[_0x365f2a(0x102)](_0x40016e),_0x34dd4a[_0x365f2a(0x117)](_0x319ca4,''+_0x40016e);}}),cmd({'pattern':'othermenu','desc':_0x21c34c(0x120),'category':'menu','react':'🤖','filename':__filename},async(_0x238851,_0x2c0941,_0x3746b9,{from:_0x41cb1f,quoted:_0x1259a9,body:_0x24372e,isCmd:_0x1fa298,command:_0x51497a,args:_0x73f8e,q:_0x1b2153,isGroup:_0x27bf72,sender:_0x3d5159,senderNumber:_0x2e2f03,botNumber2:_0x515fdf,botNumber:_0x4c0f18,pushname:_0x3a8dfa,isMe:_0x277f19,isOwner:_0x4f0402,groupMetadata:_0x24d25f,groupName:_0x4c6e2b,participants:_0x42610a,groupAdmins:_0x250c34,isBotAdmins:_0x111b10,isAdmins:_0x43c7c6,reply:_0x1b9f0c})=>{const _0x137a66=_0x21c34c,_0x50ac84={'AzwZa':'120363402653537145@newsletter','GTdXu':'🧑‍💻⃝𝘿𝙊𝙍𝘼\x20𝙈𝘿\x20𝙏𝙀𝘾𝙃➝💥'};try{let _0x2c4bb4=_0x137a66(0x106)+config['CAPTION'];await _0x238851['sendMessage'](_0x41cb1f,{'image':{'url':_0x137a66(0x113)},'caption':_0x2c4bb4,'contextInfo':{'mentionedJid':[_0x3746b9['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x50ac84[_0x137a66(0x115)],'newsletterName':_0x50ac84[_0x137a66(0x121)],'serverMessageId':0x8f}}},{'quoted':_0x2c0941});}catch(_0x3b9073){console['log'](_0x3b9073),_0x1b9f0c(''+_0x3b9073);}}),cmd({'pattern':'mainmenu','desc':'menu\x20the\x20bot','category':_0x21c34c(0x10b),'react':'🗿','filename':__filename},async(_0x3380da,_0x31eca4,_0x15c2c2,{from:_0x3cf78b,quoted:_0x569756,body:_0x578e0c,isCmd:_0x1ec39e,command:_0x4c3e8a,args:_0x5d9ccc,q:_0x1d2ccb,isGroup:_0x1ea8fe,sender:_0x22abc5,senderNumber:_0x5c4dce,botNumber2:_0x2ffc1b,botNumber:_0x14884d,pushname:_0x40c25f,isMe:_0x588c76,isOwner:_0x4d2493,groupMetadata:_0x58ee97,groupName:_0xa6622,participants:_0x51fe59,groupAdmins:_0x325e7c,isBotAdmins:_0x54373,isAdmins:_0x5cde3d,reply:_0x42f704})=>{const _0x318822=_0x21c34c,_0x249468={'wrFkC':'🧑‍💻⃝𝘿𝙊𝙍𝘼\x20𝙈𝘿\x20𝙏𝙀𝘾𝙃➝💥'};try{let _0x255aa0='╭━━〔\x20*ᴍᴀɪɴ\x20ᴍᴇɴᴜ*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20ping\x0a┃◈┃•\x20alive\x0a┃◈┃•\x20runtime\x0a┃◈┃•\x20uptime\x20\x0a┃◈┃•\x20repo\x0a┃◈┃•\x20owner\x0a┃◈┃•\x20menu\x0a┃◈┃•\x20menu2\x0a┃◈┃•\x20restart\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config['CAPTION'];await _0x3380da[_0x318822(0x128)](_0x3cf78b,{'image':{'url':'https://files.catbox.moe/20f3gw.jpg'},'caption':_0x255aa0,'contextInfo':{'mentionedJid':[_0x15c2c2[_0x318822(0x122)]],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':'120363402653537145@newsletter','newsletterName':_0x249468['wrFkC'],'serverMessageId':0x8f}}},{'quoted':_0x31eca4});}catch(_0x4dc1ad){console[_0x318822(0x102)](_0x4dc1ad),_0x42f704(''+_0x4dc1ad);}}),cmd({'pattern':_0x21c34c(0x108),'desc':_0x21c34c(0x120),'category':'menu','react':'🔰','filename':__filename},async(_0x50c710,_0x4d78f6,_0x56242f,{from:_0x2ef7bc,quoted:_0x36decd,body:_0x52bd8b,isCmd:_0x327a9b,command:_0x274f0a,args:_0x378ff3,q:_0x36b232,isGroup:_0x5f24b3,sender:_0x4b38c5,senderNumber:_0x491899,botNumber2:_0x7828d9,botNumber:_0x51a9b8,pushname:_0x524038,isMe:_0x12f6d9,isOwner:_0x2ab6fa,groupMetadata:_0x444607,groupName:_0x159a51,participants:_0x267021,groupAdmins:_0x2d1948,isBotAdmins:_0x47c3ed,isAdmins:_0x45bd79,reply:_0x4987d0})=>{const _0x3308e4=_0x21c34c;try{let _0x398037='╭━━〔\x20*ᴏᴡɴᴇʀ\x20ᴍᴇɴᴜ*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20owner\x0a┃◈┃•\x20menu\x0a┃◈┃•\x20menu2\x0a┃◈┃•\x20listcmd\x0a┃◈┃•\x20allmenu\x0a┃◈┃•\x20repo\x0a┃◈┃•\x20block\x0a┃◈┃•\x20unblock\x0a┃◈┃•\x20fullpp\x0a┃◈┃•\x20setpp\x0a┃◈┃•\x20restart\x0a┃◈┃•\x20shutdown\x0a┃◈┃•\x20updatecmd\x0a┃◈┃•\x20alive\x0a┃◈┃•\x20ping\x20\x0a┃◈┃•\x20gjid\x0a┃◈┃•\x20jid\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config['CAPTION'];await _0x50c710[_0x3308e4(0x128)](_0x2ef7bc,{'image':{'url':_0x3308e4(0x113)},'caption':_0x398037,'contextInfo':{'mentionedJid':[_0x56242f['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':'120363402653537145@newsletter','newsletterName':_0x3308e4(0x118),'serverMessageId':0x8f}}},{'quoted':_0x4d78f6});}catch(_0x173d7f){console[_0x3308e4(0x102)](_0x173d7f),_0x4987d0(''+_0x173d7f);}}),cmd({'pattern':'convertmenu','desc':_0x21c34c(0x120),'category':'menu','react':'🥀','filename':__filename},async(_0x31044e,_0x4b547f,_0x1d4df9,{from:_0x27d941,quoted:_0x526418,body:_0x1caaa8,isCmd:_0x35a965,command:_0x2fe123,args:_0x500128,q:_0x10744,isGroup:_0x2b6f3,sender:_0x81dead,senderNumber:_0x194f85,botNumber2:_0x568f86,botNumber:_0x22d670,pushname:_0x3e38b0,isMe:_0x1e4e4c,isOwner:_0x197ff9,groupMetadata:_0x94618e,groupName:_0x156ff8,participants:_0x270143,groupAdmins:_0xc38d91,isBotAdmins:_0x4d5950,isAdmins:_0x406db0,reply:_0x294d6b})=>{const _0x27397c=_0x21c34c,_0x5b88a9={'eXyzW':_0x27397c(0x118)};try{let _0x36bf4d=_0x27397c(0x104)+config[_0x27397c(0x127)];await _0x31044e['sendMessage'](_0x27d941,{'image':{'url':'https://files.catbox.moe/20f3gw.jpg'},'caption':_0x36bf4d,'contextInfo':{'mentionedJid':[_0x1d4df9[_0x27397c(0x122)]],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':'120363402653537145@newsletter','newsletterName':_0x5b88a9[_0x27397c(0x114)],'serverMessageId':0x8f}}},{'quoted':_0x4b547f});}catch(_0x49ef8d){console['log'](_0x49ef8d),_0x294d6b(''+_0x49ef8d);}}),cmd({'pattern':'animemenu','desc':'menu\x20the\x20bot','category':'menu','react':'🧚','filename':__filename},async(_0x2c5361,_0x276007,_0x2cc5c5,{from:_0x1beb81,quoted:_0x59bace,body:_0x21de4e,isCmd:_0x2b47e9,command:_0x1f5677,args:_0x5df3f0,q:_0x724359,isGroup:_0x8df602,sender:_0x163478,senderNumber:_0x40ff56,botNumber2:_0x1f721c,botNumber:_0x343ad7,pushname:_0x3754ca,isMe:_0x1dfbf3,isOwner:_0x5978e2,groupMetadata:_0x5a7a20,groupName:_0x19e4dc,participants:_0x3081ae,groupAdmins:_0x41df48,isBotAdmins:_0x26972d,isAdmins:_0x174363,reply:_0x5c23c6})=>{const _0x2c49f4=_0x21c34c,_0x10f408={'Iywyd':'120363402653537145@newsletter','eEwKS':_0x2c49f4(0x118)};try{let _0x5b66d2='╭━━〔\x20*Anime\x20Menu*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a\x0a┃◈┃•\x20dog\x0a┃◈┃•\x20king\x0a┃◈┃•\x20animegirl\x0a┃◈┃•\x20animegirl\x0a┃◈┃•\x20animegirl1\x0a┃◈┃•\x20animegirl2\x0a┃◈┃•\x20animegirl3\x0a┃◈┃•\x20animegirl4\x0a┃◈┃•\x20animegirl5\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config[_0x2c49f4(0x127)];await _0x2c5361['sendMessage'](_0x1beb81,{'image':{'url':'https://files.catbox.moe/20f3gw.jpg'},'caption':_0x5b66d2,'contextInfo':{'mentionedJid':[_0x2cc5c5[_0x2c49f4(0x122)]],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x10f408['Iywyd'],'newsletterName':_0x10f408['eEwKS'],'serverMessageId':0x8f}}},{'quoted':_0x276007});}catch(_0x3084d7){console['log'](_0x3084d7),_0x5c23c6(''+_0x3084d7);}}),cmd({'pattern':_0x21c34c(0x11c),'desc':'menu\x20the\x20bot','category':_0x21c34c(0x10b),'react':'🤖','filename':__filename},async(_0x7272fa,_0x3048eb,_0x244f05,{from:_0x5a3918,quoted:_0x36ebed,body:_0x335b97,isCmd:_0x554cb6,command:_0xb5f640,args:_0x11638c,q:_0x5dd457,isGroup:_0x47b911,sender:_0x1a3e52,senderNumber:_0x46f9ef,botNumber2:_0x37286f,botNumber:_0x8beaab,pushname:_0x229b4b,isMe:_0x187cc1,isOwner:_0x57b2fd,groupMetadata:_0x3b6e72,groupName:_0x224189,participants:_0x385593,groupAdmins:_0x6774b6,isBotAdmins:_0x2adec9,isAdmins:_0x2284cb,reply:_0x3e987b})=>{const _0x1fb0d4=_0x21c34c,_0x442c36={'DKXND':_0x1fb0d4(0x118)};try{let _0x34e273='╭━━〔\x20*Ai\x20Menu*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20ai\x0a┃◈┃•\x20gpt\x0a┃◈┃•\x20meta\x0a┃◈┃•\x20blackbox\x0a┃◈┃•\x20gpt4\x0a┃◈┃•\x20bing\x0a┃◈┃•\x20copilot\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config['CAPTION'];await _0x7272fa['sendMessage'](_0x5a3918,{'image':{'url':'https://files.catbox.moe/ey7qsm.png'},'caption':_0x34e273,'contextInfo':{'mentionedJid':[_0x244f05['sender']],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x1fb0d4(0x126),'newsletterName':_0x442c36['DKXND'],'serverMessageId':0x8f}}},{'quoted':_0x3048eb});}catch(_0x3f723c){console['log'](_0x3f723c),_0x3e987b(''+_0x3f723c);}}),cmd({'pattern':'bugmenu','desc':_0x21c34c(0x120),'category':'menu','react':'🤖','filename':__filename},async(_0x4e8303,_0x10f129,_0x2ae276,{from:_0x1ada75,quoted:_0x470206,body:_0x57b048,isCmd:_0x1d37af,command:_0x4d0f78,args:_0x1af15d,q:_0x3db6db,isGroup:_0x533024,sender:_0x3ad82a,senderNumber:_0x5df018,botNumber2:_0x80e8a5,botNumber:_0x31a81a,pushname:_0x5a1b2d,isMe:_0x14ec44,isOwner:_0x11086d,groupMetadata:_0x2251c5,groupName:_0x4dfc6c,participants:_0x47df55,groupAdmins:_0x2beea5,isBotAdmins:_0x490e68,isAdmins:_0x417e9e,reply:_0x286015})=>{const _0x35ace7=_0x21c34c,_0xcfe57={'ggtQf':'𓆩🧑‍💻⃝𝘿𝙊𝙍𝘼\x20𝙈𝘿\x20𝙏𝙀𝘾𝙃➝💥𓆪'};try{let _0x3e6a88='╭━━〔\x20*𝐁𝐔𝐆\x20𝐌𝐄𝐍𝐔*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20𝑪𝑹𝑨𝑺𝑯(+9474****)\x0a┃◈┃•\x20𝑿𝑫(+9474****)\x0a┃◈┃•\x20𝑶𝑻𝑷𝑳𝑶𝑪𝑲(+94743****)\x0a┃◈┃•\x20𝑻𝑬𝑴𝑷𝑩𝑨𝑵(+94*****)\x0a┃◈┃•\x20𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑮𝑹𝑶𝑼𝑷\x20𝑳𝑰𝑵𝑲)\x0a┃◈┃•\x20𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑼𝑺𝑬\x20𝑻𝑯𝑰𝑺\x20𝑪𝑴𝑫\x20𝑰𝑵\x20𝑮𝑪)\x0a┃◈┃•\x20𝑩𝑼𝑮(+9474******)\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20'+config['CAPTION'];await _0x4e8303[_0x35ace7(0x128)](_0x1ada75,{'image':{'url':'https://files.catbox.moe/20f3gw.jpg'},'caption':_0x3e6a88,'contextInfo':{'mentionedJid':[_0x2ae276[_0x35ace7(0x122)]],'forwardingScore':0x3e7,'isForwarded':!![],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x35ace7(0x126),'newsletterName':_0xcfe57[_0x35ace7(0x109)],'serverMessageId':0x8f}}},{'quoted':_0x10f129});}catch(_0x2f2ca7){console['log'](_0x2f2ca7),_0x286015(''+_0x2f2ca7);}});function _0x55e8(_0x2e6ef0,_0xe1c8a3){const _0x3759b9=_0x3759();return _0x55e8=function(_0x55e86d,_0x1fa281){_0x55e86d=_0x55e86d-0x100;let _0x922927=_0x3759b9[_0x55e86d];return _0x922927;},_0x55e8(_0x2e6ef0,_0xe1c8a3);}function _0x3759(){const _0x4d3f15=['PREFIX','╭━━━〔\x20*','BOT_NAME','*\x0a┃★│\x20𝑩𝑨𝑰𝑳𝑬𝒀𝑺\x20:\x20*Multi\x20Device*\x0a┃★│\x20𝑻𝒀𝑷𝑬\x20:\x20*NodeJs*\x0a┃★│\x20𝑷𝑳𝑨𝑻𝑭𝑶𝑹𝑴\x20:\x20*Heroku*\x0a┃★│\x20𝑴𝑶𝑫𝑬\x20:\x20*[','130pCPxia','326538jraLKu','WsazG','https://files.catbox.moe/20f3gw.jpg','eXyzW','AzwZa','4870285ubMEkw','ydnjj','🧑‍💻⃝𝘿𝙊𝙍𝘼\x20𝙈𝘿\x20𝙏𝙀𝘾𝙃➝💥',']*\x0a┃★│\x20𝑷𝑹𝑰𝑭𝑰𝑿\x20:\x20*[','36065TszJLg','https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/VID-20250118-WA0022.mp3','aimenu',']*\x0a┃★│\x20𝑽𝑬𝑹𝑺𝑰𝑶𝑵\x20:\x20*v\x202.0.0*\x0a┃★╰──────────────\x0a╰━━━━━━━━━━━━━━━┈⊷\x0a╭━━〔\x20*𝐌𝐄𝐍𝐔\x20𝐋𝐈𝐒𝐓*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20.ᴀɪᴍᴇɴᴜ\x0a┃◈┃•\x20.ᴀɴɪᴍɪᴇᴍᴇɴᴜ\x0a┃◈┃•\x20.ᴄᴏɴᴠᴇʀᴛᴍᴇɴᴜ\x0a┃◈┃•\x20.ꜰᴜɴᴍᴇɴᴜ\x0a┃◈┃•\x20.ᴅʟᴍᴇɴᴜ\x0a┃◈┃•\x20.ʟɪꜱᴛᴄᴍᴅ\x0a┃◈┃•\x20.ᴍᴇɪɴᴍᴇɴᴜ\x0a┃◈┃•\x20.ᴀʟʟᴍᴇɴᴜ\x0a┃◈┃•\x20.ɢʀᴏᴜᴘᴍᴇɴᴜ\x0a┃◈┃•\x20.ᴏᴡɴᴇʀᴍᴇɴᴜ\x0a┃◈┃•\x20.ᴏᴛʜᴇʀᴍᴇɴᴜ\x0a┃◈┃•\x20.ʀᴇᴘᴏ\x0a┃◈┃•\x20.ʟᴏɢᴏ<ᴛᴇxᴛ>\x0a┃◈┃•\x20.ʙᴜɢᴍᴇɴᴜ\x0a┃◈┃•\x20.ᴀɴᴛɪᴅᴇʟ\x20<ꜰᴏʀ\x20ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ\x20ᴀɴᴛɪᴅᴇʟᴇᴛᴇ\x20ᴍᴇꜱᴇɢᴇ>\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20','2474240kpSnUE','9CihFZV','menu\x20the\x20bot','GTdXu','sender','MODE','284DDRugm','audio/mp4','120363402653537145@newsletter','CAPTION','sendMessage','2361480jQplYM','4834stslKI','log','1043826viRTwd','╭━━〔\x20*Convert\x20Menu*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20sticker\x0a┃◈┃•\x20sticker2\x0a┃◈┃•\x20fancy\x0a┃◈┃•\x20take\x0a┃◈┃•\x20tomp3\x0a┃◈┃•\x20tts\x0a┃◈┃•\x20trt\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20','groupmenu','╭━━〔\x20*ᴏᴛʜᴇʀ\x20ᴍᴇɴᴜ*\x20〕━━┈⊷\x0a┃◈╭─────────────·๏\x0a┃◈┃•\x20fact\x0a┃◈┃•\x20font\x0a┃◈┃•\x20define\x0a┃◈┃•\x20news\x0a┃◈┃•\x20movie\x0a┃◈┃•\x20weather\x0a┃◈┃•\x20srepo\x0a┃◈┃•\x20insult\x0a┃◈┃•\x20save\x0a┃◈┃•\x20wikipedia\x0a┃◈┃•\x20gpass\x0a┃◈┃•\x20githubstalk\x0a┃◈┃•\x20yts\x0a┃◈┃•\x20ytv\x0a┃◈└───────────┈⊷\x0a╰──────────────┈⊷\x0a>\x20','DKERP','ownermenu','ggtQf','dSsLg','menu'];_0x3759=function(){return _0x4d3f15;};return _0x3759();}
+const config = require('../config');
+const { cmd, commands } = require('../command');
+const os = require("os");
+const { runtime } = require('../lib/functions');
+
+cmd({
+    pattern: "menu",
+    alias: ["list"],
+    desc: "menu the bot",
+    react: "📂",
+    category: "main"
+}, async (conn, mek, m, {
+    from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply
+}) => {
+    try {
+        let desc = `*╭─────❒*
+*┃*  👋 𝐻𝐸𝐿𝐿𝒪 ${pushname}
+*╰─────❒*
+
+*╭──⛬ ᴄᴏᴍᴍᴀɴᴅ ᴘᴀɴᴇʟ ⛬*
+*│*  *ʀᴜɴᴛɪᴍᴇ :* ${runtime(process.uptime())}
+*│*  *ʀᴀᴍ ᴜꜱᴀɢᴇ :* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+*│*  *ᴘʟᴀᴛꜰᴏʀᴍ :* ${os.hostname()}
+*│*  *ᴠᴇʀꜱɪᴏɴ :* 1.0.0
+*╰──────────────────❒*
+
+╭────────🌼
+┃💝╭──🌺
+┃💝│ *➀ .ᴏᴡɴᴇʀ*
+┃💝│ *➁ .ᴄᴏɴᴠᴇʀᴛ*
+┃💝│ *➂ .ᴀɪ*  
+┃💝│ *➃ .ꜱᴇᴀʀᴄʜ*
+┃💝│ *➄ .ᴅᴏᴡɴʟᴏᴀᴅ*
+┃💝│ *➅ .ᴍᴀɪɴ*
+┃💝│ *➆ .ɢʀᴏᴜᴘ*
+┃💝│ *➇ .ꜰᴜɴ*
+┃💝│ *➈ .ᴛᴏᴏʟꜱ*
+┃💝│ *➉ .ᴏᴛʜᴇʀ*
+┃💝╰──────────🌺
+╰───────────────────🌼
+
+*🪄 𝚁𝙴𝙿𝙻𝚈 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝙽𝚄𝙼𝙱𝙴𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝚂𝙴𝙻𝙴𝙲𝚃 🖋️*
+
+ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴇᴀʟ ᴅᴏʀᴀ 🍁`;
+
+        const vv = await conn.sendMessage(from, { image: { url: "https://i.ibb.co/xt0nMfDy/IMG-20250426-WA0030.jpg" }, caption: desc }, { quoted: mek });
+
+        conn.ev.on('messages.upsert', async (msgUpdate) => {
+            const msg = msgUpdate.messages[0];
+            if (!msg.message || !msg.message.extendedTextMessage) return;
+
+            const selectedOption = msg.message.extendedTextMessage.text.trim();
+
+            if (msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.stanzaId === vv.key.id) {
+                switch (selectedOption) {
+                    case '1':
+                        reply(`*╭───────────❒*
+*┃* *𝙾𝚆𝙽𝙴𝚁 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ʀᴇꜱᴛᴀʀᴛ* 
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ʀᴀᴠɪ-ɪᴅ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ʀᴀᴠɪ-ɪᴅ2*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ʙʟᴏᴄᴋʟɪꜱᴛ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɢᴇᴛʙɪᴏ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴇᴛᴘᴘᴀʟʟ* 
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴇᴛᴏɴʟɪɴᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴇᴛᴘᴘ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴇᴛᴍʏɴᴀᴍᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴜᴘᴅᴀᴛᴇʙɪᴏ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɢᴇᴛᴘᴘ*
+┃🌸╰──🌺
+╰────────🌼
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘖𝘞𝘕𝘌𝘙: 11*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴇᴀʟ ᴅᴏʀᴀ 🍁`);
+                        break;
+                    case '2':
+                        reply(`*╭───────────❒*
+*┃* *𝙲𝙾𝙽𝚅𝙴𝚁𝚃 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴄᴏɴᴠᴇʀᴛ*
+┃🌸╰──🌺
+╰────────🌼
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘊𝘖𝘕𝘝𝘌𝘙𝘛 : 1*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴇᴀʟ ᴅᴏʀᴀ 🍁`);
+                        break;
+                    case '3':
+                        reply(`*╭───────────❒*
+*┃* *𝙰𝙸 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɪ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɢᴘᴛ*
+┃🌸╰──🌺
+╰────────🌼
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘈𝘐 : 2*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`);
+                        break;
+                    case '4':
+                        reply(`*╭───────────❒*
+*┃* *𝚂𝙴𝙰𝚁𝙲𝙷 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ʏᴛꜱ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴛɪᴋᴛᴏᴋꜱᴛᴀʟᴋ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱʀᴇᴘᴏ*
+┃🌸╰──🌺
+╰────────🌼
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘚𝘌𝘈𝘙𝘊𝘏 : 3*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`);
+                        break;
+                    case '5':
+                        reply(`*╭───────────❒*
+*┃* *𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀᴘᴋ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴠᴠ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɴɪᴍᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴛᴡɪᴛᴛᴇʀ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɢᴅʀɪᴠᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴍᴇᴅɪᴀꜰɪʀᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜰʙ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɪɴꜱᴛᴀɢʀᴀᴍ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɪɢ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴍᴏᴠɪᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴏɴɢ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴠɪᴅᴇᴏ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴘʟᴀʏ/ʏᴛ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴏɴɢ2*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴠɪᴅᴇᴏ2*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴛɪᴋᴛᴏᴋ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɪᴍɢ*
+┃🌸╰──🌺
+╰────────🌼
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘋𝘖𝘞𝘕𝘓𝘖𝘈𝘋 : 17*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`);
+                        break;
+                    case '6':
+                        reply(`*╭───────────❒*
+*┃* *𝙼𝙰𝙸𝙽 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀʟɪᴠᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀʟɪᴠᴇ2*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴘɪɴɢ3*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀʙᴏᴜᴛ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴍᴇɴᴜ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ʟᴏɢᴏᴍᴇɴᴜ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴘɪɴɢ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴘɪɴɢ2*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴜᴘᴘᴏʀᴛ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱʏꜱᴛᴇᴍ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴜᴘᴛɪᴍᴇ*
+┃🌸╰──🌺
+╰────────🌼
+
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘔𝘈𝘐𝘕 : 9*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴇᴀʟ ᴅᴏʀᴀ 🍁`);
+                        break;
+                    case '7':
+                        reply(`*╭───────────❒*
+*┃* *𝙶𝚁𝙾𝚄𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴘʀᴏᴍᴏᴛᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴅᴇᴍᴏᴛᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴋɪᴄᴋ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀᴅᴅ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀᴅᴍɪɴꜱ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴛᴀɢᴀʟʟ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɢᴇᴛᴘɪᴄ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴇᴛᴡᴇʟᴄᴏᴍᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜱᴇᴛɢᴏᴏᴅʙʏᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴍᴜᴛᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴜɴᴍᴜᴛᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɢɴᴀᴍᴇ*
+┃🌸╰──🌺
+╰────────🌼
+
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘎𝘙𝘖𝘜𝘗 : 13*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`);
+                        break;
+                    case '8':
+                        reply(`*╭───────────❒*
+*┃* *𝙵𝚄𝙽 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴅᴏɢ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ꜰᴀᴄᴛ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ʜᴀᴄᴋ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.𝚀ᴜᴏᴛᴇ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɴɪᴍᴇɢɪʀʟ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɴɪᴍᴇɢɪʀʟ1*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɴɪᴍᴇɢɪʀʟ2*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɴɪᴍᴇɢɪʀʟ3*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɴɪᴍᴇɢɪʀʟ4*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɴɪᴍᴇɢɪʀʟ5*
+┃🌸╰──🌺
+╰────────🌼
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘍𝘜𝘕 : 10*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`);
+                        break;
+                    case '9':
+                        reply(`*╭───────────❒*
+*┃* *𝚃𝙾𝙾𝙻𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴀɪ*
+┃🌸╰──🌺
+╰────────🌼
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘈𝘐 : 1*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`);
+                        break;
+                    case '10':
+                        reply(`*╭───────────❒*
+*┃* *𝙾𝚃𝙷𝙴𝚁 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃*
+*╰───────────❒*
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ɢɪᴛʜᴜʙꜱᴛᴀʟᴋ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴡᴇᴀᴛʜᴇʀ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴛʀᴛ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴛᴇᴍᴘᴍᴀɪʟ*
+┃🌸╰──🌺
+╰────────🌼
+╭────────🌼
+┃🌸╭──🌺
+┃🌸│ *.ᴛᴇᴍᴘɴᴜᴍ*
+┃🌸╰──🌺
+╰────────🌼
+
+*✬ ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ 𝘖𝘛𝘏𝘌𝘙 : 5*
+
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴇᴀʟ ᴅᴏʀᴀ 🍁`);
+                        break;
+                    default:
+                        reply("❌ Invalid Option Selected!");
+                }
+            }
+        });
+    } catch (error) {
+        conn.sendMessage(from, { react: { text: '❌', key: mek.key } });
+        reply('An error occurred while processing your request.');
+    }
+});
